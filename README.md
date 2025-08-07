@@ -2,7 +2,7 @@
 
      This  software  was  created  by   meduim  programmer  Njotchouang  noubissie  Duhanel.
 
-          ALL right  reserve  no part of this  software  should  be copied for  any reason without the  permission of  the  order 
+          ALL right  reserve  no part of this  software  should  be copied for  any reason without the  permission of  the  
 author   
                                          **********HOW TO USE THE  SOFTWARE********
 
